@@ -1,0 +1,93 @@
+PCR: Polymerase Chain Reaction
+
+The polymerase chain reaction (PCR) was invented in the 1980s by Kary Mullis and his colleagues at Cetus Corporation. PCR is a laboratory technique that amplifies specific DNA sequences. 
+Early history
+In 1976, Alice Chien isolated Taq polymerase, a thermostable DNA polymerase. 
+In the 1960s and 1970s, Khorana et al. performed early research that challenged Mullis's PCR patents. 
+Development
+The isolation of Taq polymerase and the development of programmable PCR thermal cyclers made PCR a widely used technique. 
+PCR technology has improved over three generations, including real-time qPCR, RT-qPCR, and dPCR. 
+Applications
+PCR is used in diverse fields such as forensic science, environmental studies, food technology, and diagnostic medicine. 
+PCR is used as the basis for numerous clinical molecular diagnostic tests in laboratories worldwide. 
+PCR was used in COVID-19 testing. 
+Awards 
+In 1993, Kary Mullis was awarded the Nobel Prize in Chemistry for his work on PCR.
+
+
+Taq polymerase is a DNA polymerase that's used to amplify DNA sequences in the polymerase chain reaction (PCR). It's derived from the heat-loving bacteria Thermus aquaticus, which is why it's also known as "Taq”.
+https://www.youtube.com/watch?v=iQsu3Kz9NYo
+Polymerase Chain Reaction (PCR):
+PCR is a widely used molecular biology technique that amplifies specific DNA fragments, even from very small or degraded samples. It’s simple, cost-effective, and used in applications like research, diagnostics, and forensic science.
+PCR Process:
+Initial Denaturation: DNA is heated to 95°C to separate double-stranded DNA into single strands.
+Cycling:
+Denaturation: DNA is heated to 95°C to melt into single-stranded DNA.
+Annealing: The temperature is lowered to allow primers to bind to the DNA at 45–60°C.
+Extension: The temperature is raised to 72°C for DNA polymerase to extend the primers and replicate the DNA.
+Repetition: These steps are repeated for 30–40 cycles to exponentially amplify the target DNA.
+PCR’s simplicity and ability to amplify DNA from minimal and degraded samples make it invaluable in a range of applications.
+Polymerase Chain Reaction (PCR) Overview:
+PCR is a technique used to amplify a specific DNA segment. It involves three main steps:
+Denaturation: Heat DNA to 92–95°C to separate strands.
+Annealing: Cool to 50–70°C to allow primers to bind.
+Extension: Heat to 72°C to extend DNA strands.
+These steps are repeated 30–40 times. PCR uses components like MgCl2, buffer, dNTPs, primers, target DNA, and a thermostable DNA polymerase.
+Types of PCR:
+Conventional PCR: Basic amplification.
+Multiplex PCR: Amplifies multiple targets at once.
+Nested PCR: Increases specificity using two sets of primers.
+Reverse Transcriptase PCR (RT-PCR): Converts mRNA to cDNA for amplification.
+Quantitative PCR: Quantifies DNA or RNA.
+Hot-start PCR: Reduces nonspecific amplification by heating components before adding polymerase.
+Touchdown PCR: Gradually decreases annealing temperature for better primer binding.
+Assembly PCR: Synthesizes long DNA segments by joining oligonucleotides.
+Methylation-specific PCR: Detects DNA methylation patterns.
+LAMP Assay: Amplifies DNA using a loop-mediated technique.
+Real-time PCR: Quantifies PCR product as it amplifies.
+
+
+
+
+
+
+
+
+Taq Polymerase Overview:
+Discovery: Taq polymerase was isolated from Thermus aquaticus in Yellowstone in 1976 by Chien et al.
+PCR Development: In 1985, PCR using the Klenow fragment of E. coli DNA polymerase was introduced. Taq polymerase was later used in PCR (1988) due to its heat stability, making PCR practical.
+Revolutionizing PCR: Taq polymerase allows PCR to work without needing to add fresh enzyme after each denaturation step. Perkin-Elmer Cetus provided PCR kits and thermal cyclers.
+Recombinant Taq Polymerase: The Taq polymerase gene was cloned and expressed in E. coli, leading to the production of AmpliTaq DNA polymerase for commercial use.
+Overproduction: Codon optimization of the Taq gene improved its production by over 10-fold, leading to higher commercial availability.
+Thermostable DNA Polymerases from Thermophiles:
+Thermophiles: Organisms that thrive at high temperatures have thermostable DNA polymerases. They are classified into extreme thermophiles (>75°C) and moderate thermophiles (55–75°C).
+PCR Compatibility: Taq polymerase from extreme thermophiles works well in PCR, while polymerases from moderate thermophiles are less stable.
+Hyperthermophiles: These organisms, particularly archaea like Pyrococcus furiosus (Pfu polymerase), provide even more heat-stable enzymes.
+Phusion DNA Polymerase: Next-Generation PCR Technology
+Phusion DNA polymerase, introduced in 2003, marked the beginning of next-generation polymerases and high-fidelity PCR. Developed from a Pyrococcus-like enzyme, it offers high proofreading activity, better template binding, and improved performance with long or challenging templates, such as those with GC-rich regions.
+Thermo Fisher Scientific has since expanded Phusion products, including stand-alone enzymes, master mixes, and kits for applications like site-directed mutagenesis and fast PCR. The latest version, Phusion Plus DNA Polymerase, offers even higher fidelity (over 100 times better than Taq polymerase), universal primer annealing, and improved performance with tough DNA templates.
+
+https://cropgenebank.sgrp.cgiar.org/images/file/learning_space/molecular_markers/volume1/PCR_basics.pdf
+https://www.youtube.com/watch?v=6SRLvS8mHuE&pp=ygUSI3BjcnRoZXJtYWxjeWNsZXJz
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4148896/
+
+Is my sample amplified?
+Will PCR amplified products have a longer DNA length than the original DNA template?
+PCR amplified product will not have a longer DNA length than the original DNA template; instead, it will be a shorter, specific fragment of the DNA amplified by the PCR reaction, meaning the gel electrophoresis will show a distinct band representing the amplified region after PCR, while before PCR, the DNA would appear as a smear of much longer fragments on the gel. 
+Key points about PCR and gel electrophoresis:
+PCR amplifies a specific region:
+The PCR reaction uses primers to target and replicate only a specific section of the DNA template, resulting in a much shorter DNA fragment than the original DNA. 
+Gel electrophoresis separates DNA fragments by size:
+When running DNA on a gel, smaller fragments travel further through the gel matrix than larger fragments, allowing for visualization of different DNA sizes based on their migration distance. 
+Before PCR:
+A DNA sample before PCR would show a smear on the gel because it contains a mixture of very long DNA fragments from the genome. 
+After PCR:
+After PCR, the gel will show a distinct band corresponding to the amplified fragment size, as the PCR reaction has produced a large quantity of identical, short DNA fragments. 
+
+PCR products can be sequenced to identify the DNA sequence.
+
+
+
+PCR-amplified library before and after gel purification. (A) Gel image of library prior to gel purification shows that in addition to the target fragments of ~400 bp, large frequencies of 100-200 bp unspecific products were present. (B) Gel image of library after gel purification shows no visible short unspecific products left in the library.
+
+
