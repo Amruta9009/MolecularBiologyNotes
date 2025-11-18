@@ -1,0 +1,317 @@
+Let’s start with a simple question: how do we isolate a protein of interest?
+ Proteins can be obtained from many sources — for diagnosis, they might come from a patient’s cells or tissues, and for research, from microorganisms or cells from animals or plants. But no matter the source, proteins we don’t want are often present in much higher amounts than the ones we do want. Isolating just one protein is not easy, and here’s why:
+Proteins lack a common property for purification:
+ Unlike DNA or RNA, which are negatively charged and can be purified using standard methods, proteins are diverse. They may be charged, hydrophobic, or neutral, and these traits vary widely. So, no one-size-fits-all method works. For instance, DNA-binding proteins can be purified using phosphocellulose, but even that doesn't guarantee clean or complete separation. Protein purification usually needs several steps and the right tools, like specific columns.
+
+
+The desired protein is often in low amounts:
+ Even though cells contain a lot of total protein, any one protein is usually present in very small amounts — sometimes in trillionths of a gram. Instruments like spectrometers or calorimeters need much higher concentrations to detect them. While mass spectrometry can handle very small samples, it still struggles with proteins that don’t ionize easily.
+
+
+Proteins cannot be amplified like DNA or RNA:
+DNA and RNA can be copied using PCR, even from tiny samples. But we can’t amplify proteins this way. If you don’t start with enough protein, it may disappear entirely during the experiment.
+
+
+Contamination is a big challenge:
+ Some proteins are naturally abundant in cells, like histones or keratins, and they can overshadow your protein of interest. Human tissue samples can also be messy, with blood, fat, or other unwanted materials. This background "noise" complicates analysis.
+
+
+Proteins are unstable:
+ Like RNA, proteins break down quickly. Even with protease inhibitors, they can degrade if the temperature, pH, or salt concentration isn't just right. Some proteins clump together or break apart due to oxidation, especially those with cysteine. That’s why experts warn against leaving proteins sitting in the fridge — they don’t last long.
+
+
+
+To work around these issues, the best solution is overexpression or enrichment.
+The rule is simple: get as much of the protein as possible at the start. Since proteins tend to degrade or get lost during the experiment, having a large amount from the beginning increases the chances of success. Overexpression techniques can help ensure that the protein is available in high enough quantities for analysis and purification.
+
+Protein Isolation and Purification – Simplified Overview
+To begin protein isolation, it's important to choose the right method depending on the type of sample—solid or liquid.
+From Solid Samples:
+If the sample has many cells (like tissues), the cells must be broken open (lysed). This is usually done by:
+Mechanical methods: such as grinding or homogenizing.
+
+
+Physical/chemical methods: like using heat, sound waves (sonication), or detergents.
+
+
+Detergents help dissolve proteins better, especially tough ones like membrane or nuclear proteins. Chaotropic agents (e.g., urea, guanidine) can also help by unfolding proteins, but they may introduce high salt content, which must be removed to avoid problems later.
+From Liquid Samples:
+You must decide whether the proteins are already dissolved or still inside cells. If they’re in cells, use centrifugation to collect the cells first. Special centrifugation techniques, like density-gradient centrifugation, can help isolate specific cell types or cell parts.
+Once proteins are extracted, they are often too diluted for analysis. So, we concentrate them by:
+Precipitation methods: using salts (e.g., ammonium sulfate), adjusting pH (isoelectric point), or adding substances like alcohol or polyethylene glycol.
+
+
+These methods can also help separate proteins from unwanted materials and improve their shelf life.
+
+
+Some techniques, like membrane concentration, offer a simple way to concentrate proteins, but they may clog if too much protein is present.
+
+Protein Purification and Analysis
+After concentration, proteins need to be purified to get reliable results. This is typically done using chromatography, with methods chosen based on the protein’s properties:
+Hydrophobic interaction
+
+
+Size exclusion
+
+
+Ion exchange
+
+
+Affinity chromatography
+
+
+If you only need a small amount of protein, electrophoresis is useful. It separates proteins by size. The most common method is SDS-PAGE (1D gel). A more advanced version is 2D electrophoresis, which separates proteins by both size and pH (pI), giving better resolution.
+If the protein is too small to see, you can use Western blotting, which detects proteins using specific antibodies.
+Using Antibodies for Protein Study
+Immunoprecipitation: uses antibodies to isolate specific proteins.
+
+
+ELISA: a sensitive test to detect and measure small amounts of protein.
+
+
+Immunohistochemistry: shows protein location in tissues using antibodies with labels.
+
+
+Antibodies are often made in animals like rabbits, but newer methods use camelid antibodies (nanobodies), which are smaller and easier to work with.
+An alternative to antibodies is aptamers—DNA or RNA molecules that bind proteins. These are easy to make in the lab and could replace antibodies in some applications.
+
+Mass Spectrometry for Protein Analysis
+Modern protein identification often uses mass spectrometry combined with liquid chromatography (LC-MS). Though usually qualitative, metabolic labeling allows some quantitative analysis in controlled lab settings.
+Mass spectrometry imaging is a new approach that can locate proteins directly in tissue, like brain sections, without needing antibodies. This can help detect disease markers in complex samples.
+Sure! Here's a simplified version of the document, keeping all the essential information but making it clearer and easier to understand:
+
+Three Main Ways to Study Proteins
+In Vivo – Studying proteins inside a living organism. Useful for observing natural interactions and is often used in clinical trials.
+
+
+In Vitro – Studying purified proteins in a lab setting. Helps eliminate outside factors and is important before testing on live models.
+
+
+In Silico – Using computer simulations to study proteins. This method saves time and resources and is useful for tasks like protein folding and genome analysis.
+
+
+
+Important Protein Types in Research
+Extracellular Matrix Proteins: Like collagen and elastin, which support cells.
+
+
+Globular Proteins: Folded proteins with different roles in the body.
+
+
+To study proteins, they must first be purified from other cell parts. This is done either:
+For Preparative Use: To make large amounts of a protein (e.g., insulin).
+
+
+For Analytical Use: To study a protein’s structure or function.
+
+
+
+Uses of Isolated Proteins
+Purified proteins are used in:
+Diagnostics: Example—checking insulin in urine for diabetes.
+
+
+Therapies & Cosmetics: Like using collagen in skincare.
+
+
+Research Applications, including:
+
+
+Common Protein Research Techniques:
+Immunoprecipitation (IP): Captures proteins using antibodies—modern methods use magnetic beads for speed.
+
+
+Proteomics: Studies all the proteins in an organism to understand their roles.
+
+
+Enzyme Assays: Measures enzyme activity. Includes:
+
+
+Relaxation Experiments (analyze return to equilibrium),
+
+
+Transient Kinetics (study early reactions),
+
+
+Progress Curve (track reactions over time),
+
+
+Initial Rate Experiments (measure starting reaction speed).
+
+
+Western Blot: Detects specific proteins in tissues or cells.
+
+
+Gel Electrophoresis: Separates proteins by size and charge.
+
+
+Biomarker Discovery: Finds proteins linked to diseases or treatments.
+
+
+BioChain’s Protein Extraction Kits
+CNMCS Kit – Extracts 4 Protein Types:
+Cytoplasmic – Involved in basic cell functions like glycolysis.
+
+
+Nuclear – Found in the nucleus, including proteins in chromosomes.
+
+
+Membrane – Found in cell membranes, used for transport and signaling.
+
+
+Cytoskeletal – Provides structure and support to cells.
+
+
+Tissue Extraction Workflow:
+Chop and homogenize tissue.
+
+
+Use buffers and centrifuge to extract proteins in order: cytoplasmic → nuclear → membrane → cytoskeletal.
+
+
+Cell Culture Extraction Workflow:
+Break cell membranes using needles.
+
+
+Centrifuge and use specific buffers to isolate the 4 protein types, similar to tissue workflow but with fewer steps.
+
+
+Challenges & Solutions:
+Proteins can get damaged (denatured) or digested during extraction.
+
+
+The CNMCS Kit is designed to prevent these problems, with clear instructions and high-quality reagents.
+
+
+
+Total Protein Extraction Kit
+Allows protein extraction from small samples (as little as 0.1 g tissue or 2.5 million cells).
+
+
+No need to freeze, thaw, or use sonication.
+
+
+Comes with protease inhibitors to protect proteins.
+
+
+Can extract intact proteins over 200 kDa in size.
+
+
+Suitable for a wide range of studies, including:
+
+
+SDS-PAGE
+
+
+2-D Gel Electrophoresis
+
+
+Western Blotting
+
+
+DNA-Protein & Protein-Protein Interaction Studies
+
+
+Enzyme Activity Assays
+
+
+Antibody Production
+
+
+
+Conclusion
+Protein extraction is essential in both research and medicine. Though it's a complex process, kits like BioChain’s CNMCS and Total Protein Extraction Kit make it easier, faster, and more reliable—helping scientists get high-quality results for a wide variety of applications.
+
+SDS- PAGE
+
+A technique used for the separation of proteins based on their molecular weights is known as (SDS-PAGE) sodium dodecyl sulfate-polyacrylamide Gel electrophoresis.
+https://microbiologynotes.org/sds-page-introduction-principle-working-and-steps/
+Principle of SDS-PAGE
+The principle states that the molecules separated based on their electrophoretic mobility will migrate towards their respective electrodes when placed in an electric field.
+Electrophoretic mobility depends on the molecule’s structure, shape, and charge.  The structure and charge of the proteins are mainly responsible for the migration. The smaller molecules will move faster due to less hindrance whereas larger ones will move slower due to greater hindrance. Thus, molecules are only separated based on their molecular weights.
+Material required
+Power supplies: The power supply is used to convert AC into DC.
+Gels: The gels used are either prepared in the laboratory or bought from the market in which the protein travels.
+Electrophoresis chambers: The chambers in which SDS-PAGE gels pours and protein are separated.
+Protein sample: The Protein sample used is first diluted using SDS-PAGE sample buffer, boiled for 10 minutes. Then a reducing agent is used to prevent the formation of disulfide bonds forming a tertiary structure.
+Running buffer: Buffer inside the chamber carries ions and current that maintains specific pH.
+Staining and de-staining Buffer: Stains are used to visualize the proteins
+Protein ladder: A protein ladder is used as a standard to estimate the size of the protein separated in the electrophoresis.
+
+
+Agents Used in SDS-PAGE
+β-Mercaptoethanol / Dithiothreitol (DTT)
+
+
+These agents break disulfide bonds in proteins, reducing them to free -SH groups.
+This disrupts the protein’s secondary structure, leaving only the primary structure.
+This allows proteins to be separated based on size in the gel.
+Sodium Dodecyl Sulfate (SDS)
+
+
+SDS coats proteins with a negative charge.
+After treatment with β-Mercaptoethanol, proteins become linear, and SDS ensures they migrate towards the positive electrode.
+SDS also prevents proteins from regaining their natural shape during electrophoresis.
+Bromophenol Blue (BPH)
+
+
+A tracking dye used in electrophoresis.
+It has a slight negative charge and moves faster than proteins, indicating migration progress.
+Polyacrylamide Gel
+
+
+Formed by polymerizing acrylamide with a cross-linker (e.g., N, N'-Methylenebisacrylamide), creating a 3D network.
+The acrylamide-to-crosslinker ratio determines pore size, affecting protein separation.
+In a discontinuous gel system, different pH levels are used for stacking and resolving gels.
+Alternative Cross-Linkers:
+Piperazine Diacrylate (PDA): Reduces background silver staining.
+N, N'-Diallyltartardiamide (DATD): Creates a gel that can be solubilized if needed.
+https://www.youtube.com/watch?v=aa2OSzXpXOQ&pp=ygUGI3Nkc3Bo
+Charge of Glycine: https://www.youtube.com/watch?v=s8K3HezYklE
+
+Summary of Gels
+Stacking gel
+Resolving Gel
+Polyacrylamide
+  concentration
+Low
+High
+Pore
+  size
+larger
+Smaller
+The
+  pH of Tris-Cl- used
+6.8
+8.8
+Purpose
+To stack the
+  polypeptides on the interface of stacking gel and resolving gel.
+To separate the
+  polypeptides solely based on size.
+Electrophoretic
+  mobility
+Glycine<protein
+  mixture< BPB<CL–
+Protein
+  mixture<glycine<BPB<CL–
+ 
+Polyacrylamide content: 
+Has a lower polyacrylamide content (around 4%) than resolving gel
+Has a higher polyacrylamide content (around 10%) than stacking gel
+
+
+
+
+
+
+Purpose of Gel Electrophoresis
+Gel electrophoresis is used to separate DNA fragments for various applications across life sciences. Some key purposes include:
+1. Visualization of DNA Samples
+Checking DNA presence: Confirms if a DNA extraction or PCR worked, or if a diagnostic test is positive or negative.
+Determining fragment sizes: Verifies if a PCR product or restriction digest is the expected size, helping in genetic engineering and diagnosing genetic conditions.
+Estimating DNA quantity: Band intensity gives a rough idea of DNA concentration.
+Assessing sample purity: Clear bands indicate clean DNA, while smears suggest contamination or incomplete reactions.
+https://www.technologynetworks.com/analysis/articles/agarose-gel-electrophoresis-how-it-works-and-its-uses-358161
+
+
