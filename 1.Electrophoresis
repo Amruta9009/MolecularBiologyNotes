@@ -1,0 +1,62 @@
+LAB Techniques: 1. ELECTROPHORESIS
+Comparison
+DNA
+RNA
+Full Name
+Deoxyribonucleic Acid 
+Ribonucleic Acid
+Function
+DNA replicates and stores genetic information. It is a blueprint for all genetic information contained within an organism.
+RNA converts the genetic information contained within DNA to a format used to build proteins, and then moves it to ribosomal protein factories. 
+Structure
+DNA consists of two strands, arranged in a double helix. These strands are made up of subunits called nucleotides. Each nucleotide contains a phosphate, a 5-carbon sugar molecule and a nitrogenous base.
+RNA only has one strand, but like DNA, is made up of nucleotides. RNA strands are shorter than DNA strands. RNA sometimes forms a secondary double helix structure, but only intermittently. 
+Length
+DNA is a much longer polymer than RNA. A chromosome, for example, is a single, long DNA molecule, which would be several centimetres in length when unraveled.
+RNA molecules are variable in length, but much shorter than long DNA polymers. A large RNA molecule might only be a few thousand base pairs long. 
+Sugar
+The sugar in DNA is deoxyribose, which contains one less hydroxyl group than RNA’s ribose. 
+RNA contains ribose sugar molecules, without the hydroxyl modifications of deoxyribose.
+Bases
+The bases in DNA are Adenine (‘A’), Thymine (‘T’), Guanine (‘G’) and Cytosine (‘C’).
+RNA shares Adenine (‘A’), Guanine (‘G’) and Cytosine (‘C’) with DNA, but contains Uracil (‘U’) rather than Thymine.
+Base Pairs
+Adenine and Thymine pair (A-T)
+Cytosine and Guanine pair (C-G)  
+Adenine and Uracil pair (A-U)
+Cytosine and Guanine pair (C-G)        
+Location
+DNA is found in the nucleus, with a small amount of DNA also present in mitochondria.
+RNA forms in the nucleolus, and then moves to specialized regions of the cytoplasm depending on the type of RNA formed. 
+Reactivity
+Due to its deoxyribose sugar, which contains one less oxygen- containing hydroxyl group, DNA is a more stable molecule than RNA, which is useful for a molecule which has the task of keeping genetic information safe.
+RNA, containing a ribose sugar, is more reactive than DNA and is not stable in alkaline conditions. RNA’s larger helical grooves mean it is more easily subject to attack by enzymes.
+Ultraviolet (UV) Sensitivity
+DNA is vulnerable to damage by ultraviolet light. 
+RNA is more resistant to damage from UV light than DNA.
+The extra hydroxyl group on RNA provides a degree of protection against UV radiation. 
+Identify De-oxyribose and Ribose
+DNA and RNA are typically negatively charged due to the presence of phosphate groups in their backbone, while the charge of a protein can vary depending on the amino acid composition, but is generally considered to be variable depending on the pH of the solution, meaning it can be positive, negative, or neutral at different pH levels.
+https://calculator.academy/protein-charge-calculator/
+pH is the measure of acidity or alkalinity of a solution, while pI is the pH at which a protein molecule has no net charge. 
+Sodium dodecyl sulfate (SDS) is a detergent with many uses, including: 
+Protein denaturation: SDS is used to denature proteins in polyacrylamide gel electrophoresis, which determines the molecular weight of proteins. 
+Nucleic acid extraction: SDS is used to disrupt cell walls and separate nucleic acid from proteins. It's also used to inhibit RNase and DNase activity. 
+Cell lysis: SDS is used to denature proteins extracted from cells, which can cause lysis of the nucleus and release of DNA. 
+Household and industrial cleaning: SDS is used in many household and industrial cleaners. 
+Personal care products and cosmetics: SDS is used in many personal care products and cosmetics. 
+Pharmaceuticals: SDS is used as a delivery aid in pharmaceuticals. 
+Oil dispersants and pesticides: SDS is used in some oil dispersants and pesticides. 
+Gel electrophoresis is a basic technique used to separate DNA, RNA or proteins. This technique relies on electricity to separate out molecules in an agarose gel, a thick jello-like substance. DNA, RNA and proteins are all electrically charged, so when an electric current is applied to the gel, these molecules will naturally move toward the opposite pole. Because the gel is difficult to travel through, the molecules will travel at different speeds depending on their size. Smaller molecules will be able to move faster and will reach the far end of the gel, while larger molecules will be slowed down and remain near the beginning.
+An agarose gel is composed of a linear polysaccharide called agarose, which is made up of repeating units of D-galactose and 3,6-anhydro-L-galactose linked together by a-(1?3) and ß-(1?4) glycosidic bonds; essentially, it's a natural polymer extracted from seaweed (red algae). 
+Key points about agarose gel:
+Structure: Agarose forms a three-dimensional network of fibers with pores that allow molecules to migrate through based on their size. 
+Source: Extracted from agar, a substance found in certain types of marine algae. 
+Function in gel electrophoresis: Used to separate biological molecules like DNA and RNA based on their size by applying an electric field through the gel matrix.
+Protocol: Preparation of Agarose Gel for DNA Analysis
+https://www.laboratorynotes.com/protocol-preparation-of-agarose-gel-for-dna-analysis/
+agarose gels are better suited for separating larger molecules like large DNA fragments, while acrylamide gels offer superior resolution for smaller molecules like proteins or short DNA sequences due to their smaller pore sizes
+https://www.youtube.com/watch?v=MhJT9yjnl88
+https://www.smacgigworld.com/blog/components-gel-documentation-system.php
+Can we use agarose for protein separation?
+Agarose is not typically used for protein separation because its large pore size makes it unsuitable for effectively separating most proteins, especially smaller ones, whereas polyacrylamide gels, with smaller pores, offer better resolution for a wider range of protein sizes; essentially, agarose is better suited for separating larger molecules like DNA fragments due to its wider pore structure. 
